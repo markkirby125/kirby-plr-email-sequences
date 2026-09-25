@@ -3,6 +3,9 @@ name: kirby-plr-email-sequences
 description: "Use when turning personalized PLR into a 10-archetype email autoresponder sequence."
 category: copywriting
 triggers: [plr-to-email, email-sequence-from-plr, launch-sequence-plr, email-autoresponder-plr, email-repurposer]
+risk: unverified
+author: william-fitzpatrick
+tags: [kirby, ai-agent, workflow]
 ---
 
 # SOP: PLR-to-Email Sequence Transformation Engine
@@ -119,3 +122,14 @@ Before publishing, verify:
 - [ ] Does every email contain a clear single Call to Action?
 - [ ] Has all third-person educational language (*"Individuals should..."*) been converted to direct address (*"When you sit down to..."*)?
 - [ ] Is there an organic open loop leading into the next email?
+
+
+## Examples
+
+*(Add specific conversational examples here showing how the agent should behave.)*
+
+
+## Limitations (When NOT to Use)
+
+- Do not use this skill outside of its intended scope.
+- Stop and ask the user for clarification if the requirements are ambiguous.
